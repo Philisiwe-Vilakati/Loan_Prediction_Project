@@ -18,7 +18,7 @@ This project focuses on predicting loan eligibility for individuals based on the
 - Download the dataset and place it in the appropriate folder.
 - Run the Jupyter Notebook or Python scripts to preprocess the data, train the models, and evaluate the results.
 
-##c Repository Structure
+## Repository Structure
 [data/: Loan Prediction Problem Dataset](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)
 
 ## More Information
@@ -29,4 +29,4 @@ For more details on the libraries used, visit the Scikit-Learn website.
 - Implement more advanced feature engineering techniques.
 - Integrate the model into a web application for real-time loan eligibility prediction.
 
-### Feel free to contribute to this project by opening issues and submitting pull requests. Together, we can make this project more robust and effective in predicting loan eligibility.
+##### Feel free to contribute to this project by opening issues and submitting pull requests. Together, we can make this project more robust and effective in predicting loan eligibility.
