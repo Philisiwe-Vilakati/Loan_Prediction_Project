@@ -29,4 +29,4 @@ For more details on the libraries used, visit the Scikit-Learn website.
 - Implement more advanced feature engineering techniques.
 - Integrate the model into a web application for real-time loan eligibility prediction.
 
-##### Feel free to contribute to this project by opening issues and submitting pull requests. Together, we can make this project more robust and effective in predicting loan eligibility.
+#### Feel free to contribute to this project by opening issues and submitting pull requests. Together, we can make this project more robust and effective in predicting loan eligibility.
